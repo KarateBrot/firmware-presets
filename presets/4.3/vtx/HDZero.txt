@@ -13,6 +13,7 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: # VTX tables and Canvas mode setup
 #$ DESCRIPTION: ## for all HDzero digital systems
+#$ DESCRIPTION: 
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: The information provided on this preset is for educational and entertainment purposes only. Betaflight makes no representations as to the safety or legality of the use of any information provided herein. End users assume all responsibility and liability for ensuring they are complying with all relevant laws and regulations.
 #$ DESCRIPTION: <br><br>
